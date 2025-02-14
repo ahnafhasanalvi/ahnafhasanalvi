@@ -2,7 +2,7 @@
 I'm Ahnaf Hasan Alvi (AL Hasan) 
 
 <!-
-**ahnafhasanalvi/ahnafhasanalvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About:
 
 Here are some ideas to get you started:
 
